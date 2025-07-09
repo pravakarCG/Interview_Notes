@@ -1,4 +1,75 @@
-What causes a circular dependency in Spring, and how do you resolve it?
+🔰 Beginner Level (1–3 Years)
+	•	What is Spring Framework?
+	•	What are the main features of Spring?
+	•	What is Inversion of Control (IoC)?
+	•	What is Dependency Injection (DI)? What are its types?
+	•	How do you define a bean in Spring?
+	•	What are the types of dependency injection in Spring?
+	•	What is the default scope of a Spring bean?
+	•	What are the different bean scopes in Spring?
+	•	Difference between setter and constructor injection?
+	•	What is ApplicationContext vs BeanFactory?
+	•	What are stereotype annotations in Spring?
+	•	What is the role of @Component, @Service, @Repository, and @Controller?
+	•	What is the use of @Autowired?
+	•	What is the purpose of @Qualifier?
+	•	What is the difference between @Autowired, @Inject, and @Resource?
+	•	What is Java-based configuration in Spring?
+	•	How to create beans using @Bean and @Configuration?
+	•	What is the purpose of @Value annotation?
+	•	What are lifecycle methods of a Spring bean?
+	•	How do you define init and destroy methods in XML and annotation config?
+
+⸻
+
+🧩 Intermediate Level (4–6 Years)
+	•	How do you handle circular dependencies in Spring?
+	•	What is a BeanPostProcessor?
+	•	What is a BeanFactoryPostProcessor?
+	•	What is the difference between init-method and @PostConstruct?
+	•	How do you use external property files in Spring?
+	•	What is Spring Expression Language (SpEL)?
+	•	What is the purpose of @Primary?
+	•	How does @Lazy annotation work?
+	•	What is the @Scope annotation?
+	•	What is an ApplicationContextAware interface?
+	•	How to create and use a custom annotation in Spring?
+	•	How does Spring handle internationalization (i18n)?
+	•	What is @PropertySource used for?
+	•	What is the difference between XML and annotation configuration?
+	•	What is the lifecycle of a Spring application context?
+	•	How to implement conditional bean creation using @Profile?
+	•	How does Spring handle exceptions internally?
+	•	What is the difference between field injection and constructor injection?
+	•	Can we inject values from system properties or environment variables?
+	•	What is the Environment abstraction in Spring?
+
+⸻
+
+🔥 Advanced / Architect Level (7–10 Years)
+	•	Explain the complete bean lifecycle in Spring with extension points.
+	•	How does Spring resolve circular dependencies internally?
+	•	What is method injection and when would you use it?
+	•	Can a prototype bean be injected into a singleton bean? If yes, how?
+	•	How does Spring manage singleton beans in a multi-threaded environment?
+	•	What is the use of ObjectProvider and ObjectFactory?
+	•	How does the Spring container resolve bean definitions and wiring?
+	•	What are conditional beans and how do you define them using @Conditional?
+	•	What is a SmartInitializingSingleton and when is it invoked?
+	•	Explain ResolvableType in Spring and its use case.
+	•	What is the @Lookup annotation and where would you use it?
+	•	What is meta-annotation in Spring?
+	•	How can we override a bean definition conditionally?
+	•	What are the key differences between BeanPostProcessor and FactoryBean?
+	•	How does the Spring container manage memory for beans?
+	•	How does @Import work and what are its use cases?
+	•	What are ImportSelector and ImportBeanDefinitionRegistrar?
+	•	How is dependency injection handled in a lazy-loading scenario?
+	•	What are the trade-offs between using annotations vs XML configurations?
+	•	What’s the internal flow when ApplicationContext is initialized?
+	•	How does Spring Boot utilize Spring Core features under the hood?
+
+⸻
 
 What is NoSuchBeanDefinitionException or No qualifying bean of type found, and how do you troubleshoot it?
 
@@ -37,3 +108,4 @@ How do you debug the order in which Spring initializes beans?
 How do you resolve conflicts between XML-based and Java-based bean definitions?
 
 How do you test a class that uses constructor injection in Spring?
+What causes a circular dependency in Spring, and how do you resolve it?
