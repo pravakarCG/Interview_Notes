@@ -1,0 +1,39 @@
+What causes a circular dependency in Spring, and how do you resolve it?
+
+What is NoSuchBeanDefinitionException or No qualifying bean of type found, and how do you troubleshoot it?
+
+What causes a BeanNotOfRequiredTypeException and how do you fix it?
+
+What is the LazyInitializationException in a Spring web application and how do you avoid it?
+
+Why might @Transactional not work as expected, and how do you debug it?
+
+What are the implications of injecting a prototype-scoped bean into a singleton bean, and how do you handle it correctly?
+
+Why might @Value fail to inject properties, and how do you troubleshoot that?
+
+What are common pitfalls with field injection in Spring, and how do you avoid issues like NullPointerException?
+
+What happens when a bean is accidentally overridden, and how can you prevent or detect that?
+
+Why is @Autowired not working in some cases, and what are the common root causes?
+
+What is the difference between @ComponentScan and @Import, and when would misconfiguration cause issues?
+
+How do you debug if a bean is not being picked up during component scanning?
+
+How do you handle environment-specific bean loading in Spring Core?
+
+How do you dynamically load a bean based on runtime condition?
+
+What is the role of FactoryBean in Spring and how do you troubleshoot issues related to it?
+
+How do you avoid injecting uninitialized beans when working with circular or conditional dependencies?
+
+What’s the impact of defining two beans with the same name in different configuration files?
+
+How do you debug the order in which Spring initializes beans?
+
+How do you resolve conflicts between XML-based and Java-based bean definitions?
+
+How do you test a class that uses constructor injection in Spring?
