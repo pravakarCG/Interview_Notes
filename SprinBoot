@@ -1,0 +1,85 @@
+	•	What is Spring Boot and how is it different from Spring Framework?
+	•	What are the main features of Spring Boot?
+	•	What is Auto Configuration in Spring Boot?
+	•	What are starter dependencies in Spring Boot?
+	•	What is the use of spring-boot-starter-parent?
+	•	How do you create a Spring Boot application?
+	•	What is the purpose of application.properties or application.yml?
+	•	What is the default port in Spring Boot?
+	•	How can you change the embedded Tomcat port in Spring Boot?
+	•	What is Spring Boot CLI?
+	•	What is the use of @SpringBootApplication annotation?
+	•	What annotations are combined in @SpringBootApplication?
+	•	How do you run a Spring Boot application?
+	•	How do you enable scheduling in Spring Boot?
+	•	How do you enable asynchronous execution in Spring Boot?
+	•	What is DevTools in Spring Boot?
+	•	What is the difference between @Component, @Service, and @Repository?
+	•	How to connect Spring Boot to a database?
+	•	How does Spring Boot simplify dependency management?
+
+⸻
+
+🧩 Intermediate-Level (4–6 Years)
+	•	What is the structure of a typical Spring Boot application?
+	•	What is CommandLineRunner and ApplicationRunner?
+	•	How does Spring Boot support profile-based configuration?
+	•	How do you create custom properties in Spring Boot?
+	•	What is the role of @ConfigurationProperties?
+	•	How to externalize configuration in Spring Boot?
+	•	What are Spring Boot actuators?
+	•	How do you enable and configure actuator endpoints?
+	•	What is the difference between application.properties and application.yml?
+	•	What is auto-configuration and how do you customize it?
+	•	How do you disable a specific auto-configuration?
+	•	What is the @ConditionalOnProperty annotation?
+	•	What is @ConditionalOnClass, @ConditionalOnMissingBean?
+	•	What is Spring Boot’s default logging mechanism?
+	•	How to change logging levels in Spring Boot?
+	•	How do you integrate Spring Boot with databases (MySQL, H2)?
+	•	What is the difference between JpaRepository and CrudRepository?
+	•	What is spring.jpa.hibernate.ddl-auto?
+	•	What is Spring Boot starter actuator and what does it provide?
+	•	How do you create a REST API in Spring Boot?
+	•	How to handle exceptions globally in Spring Boot?
+	•	What is the use of @ControllerAdvice and @ExceptionHandler?
+	•	How do you schedule tasks in Spring Boot?
+	•	How to write unit tests and integration tests in Spring Boot?
+	•	What is the purpose of @SpringBootTest?
+
+⸻
+
+🔥 Advanced/Architect-Level (7–10 Years)
+	•	How does Spring Boot auto-configuration work internally?
+	•	What is the internal mechanism of @SpringBootApplication?
+	•	What is the SpringFactoriesLoader and how does it work?
+	•	How to write custom starter in Spring Boot?
+	•	How to write your own auto-configuration class?
+	•	How to conditionally load beans using @Conditional annotations?
+	•	What is the purpose of META-INF/spring.factories?
+	•	How to configure multiple data sources in Spring Boot?
+	•	What is @Primary and when do you use it?
+	•	How does Spring Boot integrate with Spring Security?
+	•	How do you secure REST APIs with JWT in Spring Boot?
+	•	How do you manage secrets securely in Spring Boot (e.g., DB passwords)?
+	•	What is Spring Boot Admin?
+	•	How do you implement custom health checks in Spring Boot?
+	•	How do you customize actuator endpoints?
+	•	How do you monitor and trace microservices with Spring Boot?
+	•	How do you use Spring Boot with Docker?
+	•	How do you deploy a Spring Boot application in Kubernetes?
+	•	What are the ways to improve startup time in Spring Boot?
+	•	How do you lazy load beans in Spring Boot?
+	•	What is @EnableAutoConfiguration and how does it work?
+	•	How does Spring Boot work with service discovery tools like Eureka?
+	•	What is the difference between Spring Boot and Spring Cloud?
+	•	How do you override auto-configured beans in Spring Boot?
+	•	How do you use environment variables in Spring Boot?
+	•	How do you enable HTTPS in Spring Boot?
+	•	How to load initial data on application startup (CommandLineRunner vs ApplicationRunner)?
+	•	How do you handle exception propagation in REST APIs?
+	•	How does Spring Boot support reactive programming?
+	•	What are the differences between Spring Web MVC and WebFlux?
+	•	How do you use Spring Boot in microservices architecture?
+	•	How do you use Feign Client in Spring Boot?
+	•	How do you trace logs across services using Sleuth and Zipkin in Spring Boot?
